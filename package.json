@@ -1,0 +1,22 @@
+{
+  "name": "node-framework",
+  "version": "1.0.0",
+  "description": "chapter1 Event",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyllovelemon/Node-framework.git"
+  },
+  "author": "lyllovelemon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyllovelemon/Node-framework/issues"
+  },
+  "homepage": "https://github.com/lyllovelemon/Node-framework#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
