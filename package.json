@@ -18,7 +18,7 @@
   "homepage": "https://github.com/lyllovelemon/Node-framework#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.5.12",
+    "mongoose": "^5.7.5",
     "zlib": "^1.0.5"
   }
 }
