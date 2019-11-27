@@ -1,7 +1,3 @@
-/**
- * Created by admin on 2019/5/31.
- * @author lemon<李亦黎>
- */
 
 //监控文件夹的变化
    //1.引入fs模块

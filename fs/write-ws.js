@@ -1,7 +1,4 @@
-/**
- * Created by admin on 2019/5/31.
- * @author lemon<李亦黎>
- */
+
 const fs=require("fs");
 const path=require("path");
 
